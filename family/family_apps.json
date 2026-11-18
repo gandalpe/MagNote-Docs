@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "note": "패밀리 앱 공용 설명문. 세 앱(Hearline, Mag Note, Steel Toolbox)이 같은 파일을 쓰며, 문구·날짜는 이 파일 한 곳에서만 수정함. 앱 순서는 최신 앱이 위, 오래된 앱이 아래. url이 null인 링크는 주소 미확정.",
+  "apps": [
+    {
+      "id": "hearline",
+      "name": "Hearline",
+      "date": "2026.12.24",
+      "icon": "icons/hearline.png",
+      "intro": "Hearline은 뉴스, 블로그, 팟캐스트 등의 미디어를 읽고 듣는 앱입니다.",
+      "sections": [
+        {
+          "title": "목적",
+          "items": [
+            "여러 미디어의 글과 방송을 한곳에서 모아 확인",
+            "읽기와 듣기를 원하는 대로 바로 전환"
+          ]
+        },
+        {
+          "title": "주요 기능",
+          "items": [
+            "읽기·듣기 전환 : 글은 음성(TTS)으로, 팟캐스트는 텍스트로 변환",
+            "재생목록 : 카드를 밀어 담고 이어서 듣기",
+            "구독 관리 : 뉴스·블로그·팟캐스트 채널 등록",
+            "변환한 음성과 텍스트는 기기 안에 보관"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magnote",
+      "name": "Mag Note",
+      "date": "2026.10.06",
+      "icon": "icons/magnote.png",
+      "intro": "Mag Note는 메모, 할일, 일정을 간단하게 기록하고 관리하는 도구입니다.",
+      "sections": [
+        {
+          "title": "목적",
+          "items": [
+            "간단한 한줄 메모와 할일을 빠르게 추가하고 관리",
+            "위젯에서 기록한 내용을 확인하고 수정"
+          ]
+        },
+        {
+          "title": "주요 기능",
+          "items": [
+            "메모 : 기억할 문구를 저장해 놓기",
+            "할일 : To Do List로 해야할 일들과 한 일들을 관리",
+            "기념일 : 지나거나 남은 일수를 계산하고 표시",
+            "기기 안에 저장되고 파일로 백업할 수 있는 기록",
+            "개인화가 가능한 홈화면 위젯"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "steeltoolbox",
+      "name": "Steel Toolbox",
+      "date": "2026.08.16",
+      "icon": "icons/steeltoolbox.png",
+      "intro": "Steel Toolbox는 철강 엔지니어링 계산 도구입니다.",
+      "sections": [
+        {
+          "title": "목적",
+          "items": [
+            "제조 현장과 설계 실무에 편하게 사용할 수 있는 도구",
+            "기억이 어렵거나 번거로운 계산을 도와주는 도구"
+          ]
+        },
+        {
+          "title": "주요 기능",
+          "items": [
+            "경도 환산표 : 경도와 인장강도 환산",
+            "유사 강종 조회 : 유사 강종 대조 검색",
+            "결정립도 : ASTM 결정립도 번호 환산",
+            "제품 Dimension : Wire & Bar 제품의 치수 및 중량 산출",
+            "마봉강 치수 공차 : Bar 제품의 치수 공차 산출",
+            "직진도 환산 : 길이별 직진도 값의 환산",
+            "HKMC 차량 조회 : 현대, 기아차의 차종별 Code 조회",
+            "이슬점 계산 등의 편의기능"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "title": "글꼴 라이선스",
+      "links": [
+        {
+          "text": "black7375 - Pretendard",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "아이콘 리소스",
+      "links": [
+        {
+          "text": "Google Material Icons (Apache 2.0)",
+          "url": null
+        },
+        {
+          "text": "오디오북 아이콘 제작자 : Candy Design - Flaticon",
+          "url": "https://www.flaticon.com/kr/free-icons/"
+        },
+        {
+          "text": "오소리 아이콘 제작자 : Magnific - Flaticon",
+          "url": null
+        },
+        {
+          "text": "쓰기 아이콘 제작자 : juicy_fish - Flaticon",
+          "url": null
+        }
+      ]
+    }
+  ]
+}
