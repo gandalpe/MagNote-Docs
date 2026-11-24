@@ -89,7 +89,7 @@
       "links": [
         {
           "text": "black7375 - Pretendard",
-          "url": null
+          "url": "https://github.com/orioncactus/pretendard/blob/main/LICENSE"
         }
       ]
     },
@@ -98,19 +98,19 @@
       "links": [
         {
           "text": "Google Material Icons (Apache 2.0)",
-          "url": null
+          "url": "https://fonts.google.com/icons"
         },
         {
           "text": "오디오북 아이콘 제작자 : Candy Design - Flaticon",
-          "url": "https://www.flaticon.com/kr/free-icons/"
+          "url": "https://www.flaticon.com/kr/free-icon/audio-books_16992432"
         },
         {
           "text": "오소리 아이콘 제작자 : Magnific - Flaticon",
-          "url": null
+          "url": "https://www.flaticon.com/kr/free-icon/badger_194188"
         },
         {
           "text": "쓰기 아이콘 제작자 : juicy_fish - Flaticon",
-          "url": null
+          "url": "https://www.flaticon.com/kr/free-icon/notes_13330680"
         }
       ]
     }
