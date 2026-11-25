@@ -88,7 +88,7 @@
       "title": "글꼴 라이선스",
       "links": [
         {
-          "text": "black7375 - Pretendard",
+          "text": "Pretendard : Black7375",
           "url": "https://github.com/orioncactus/pretendard/blob/main/LICENSE"
         }
       ]
@@ -97,20 +97,20 @@
       "title": "아이콘 리소스",
       "links": [
         {
-          "text": "Google Material Icons (Apache 2.0)",
-          "url": "https://fonts.google.com/icons"
+          "text": "Material Icons : Google",
+          "url": "https://github.com/google/material-design-icons/blob/master/LICENSE"
         },
         {
-          "text": "오디오북 아이콘 제작자 : Candy Design - Flaticon",
-          "url": "https://www.flaticon.com/kr/free-icon/audio-books_16992432"
+          "text": "오소리 아이콘 : Magnific - Flaticon",
+          "url": "https://www.flaticon.com/kr/free-icon/badger_194188?term=%EC%98%A4%EC%86%8C%EB%A6%AC&page=1&position=1&origin=search&related_id=194188"
         },
         {
-          "text": "오소리 아이콘 제작자 : Magnific - Flaticon",
-          "url": "https://www.flaticon.com/kr/free-icon/badger_194188"
+          "text": "노트 아이콘 : juicy_fish - Flaticon",
+          "url": "https://www.flaticon.com/kr/free-icon/notes_13330680?term=%EB%A9%94%EB%AA%A8&related_id=13330680"
         },
         {
-          "text": "쓰기 아이콘 제작자 : juicy_fish - Flaticon",
-          "url": "https://www.flaticon.com/kr/free-icon/notes_13330680"
+          "text": "오디오북 아이콘 : Candy Design - Flaticon",
+          "url": "https://www.flaticon.com/kr/free-icon/audio-books_16992432?term=%EC%98%A4%EB%94%94%EC%98%A4%EB%B6%81&page=1&position=1&origin=search&related_id=16992432"
         }
       ]
     }
